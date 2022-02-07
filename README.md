@@ -19,4 +19,4 @@ The first module explains how to navigate the AWS Amplify interface
 
 #### Add Authentication
 
-<img width="1040" alt="Screen Shot 2022-02-06 at 10 16 24 PM 1" src="https://user-images.githubusercontent.com/75241036/152734649-d35d4cef-3e9f-4d04-a2d0-18099eebff4e.png">
+<img width="840" alt="Screen Shot 2022-02-06 at 10 16 24 PM 1" src="https://user-images.githubusercontent.com/75241036/152734649-d35d4cef-3e9f-4d04-a2d0-18099eebff4e.png">
