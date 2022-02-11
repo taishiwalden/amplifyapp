@@ -7,6 +7,7 @@
 Create a simple web application using AWS Amplify
 
 The app we will be building will be a Notes app that will allow users to create, delete, and list notes. This example will give you a good idea how to build many popular types of CRUD+L (create, read, update, delete, and list) applications.
+
 ![aws-amplify-sign-in](https://user-images.githubusercontent.com/75241036/153519176-933f6a76-4cb1-413e-b038-74c49f371abc.gif)
 
 ***
